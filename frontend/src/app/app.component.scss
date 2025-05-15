@@ -1,0 +1,28 @@
+.form {
+  max-width: 800px;
+  margin: 20px auto 0;
+  padding: 16px;
+  background-color: rgba(255, 202, 40, 0.5);
+  border-radius: 8px;
+}
+
+.form-field,
+.file-upload {
+  width: 100%;
+  margin-bottom: 16px;
+}
+
+.submit-button {
+  display: block;
+  margin: 30px 0;
+}
+
+.table {
+  margin-top: 25px;
+}
+
+.no-data-message {
+  text-align: center;
+  color: gray;
+  font-style: italic;
+}
